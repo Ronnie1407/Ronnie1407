@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Basic C programming ;p**
 
-- 📫 How to reach me **Rouank1490@gmail.com**
+- 📫 How to reach me **Rounak1490@gmail.com**
 
 - ⚡ Fun fact **I think I can make Jokes**
 
@@ -34,7 +34,7 @@
 
 
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+Here are some 🦜 party parrots - VIBE ALONG
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
